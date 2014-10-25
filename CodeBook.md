@@ -1,13 +1,13 @@
 #Data Cleanup Protocol and Data Dictionary
 
 ##Data Cleanup Protocol
-*7 data frames read in(features.txt, subject_test.txt, y_test.txt, X_test.txt, subject_train.txt, y_train.txt, X_train.txt)
-*Column names added to all data frames except one read in from features.txt
-*All data frames except one read in from features.txt merged first by merging all test data column-wise and all train data column-wise followed by combining the merged test and train data row-wise
-*Data ordered first by subject and then by activity
-*Data was then subsetted to include only mean and standard deviation data
-*Appropriate names were assigned to activity labels 1-6
-*Data frame of column means of subsetted data was created
+* 7 data frames read in(features.txt, subject_test.txt, y_test.txt, X_test.txt, subject_train.txt, y_train.txt, X_train.txt)
+* Column names added to all data frames except one read in from features.txt
+* All data frames except one read in from features.txt merged first by merging all test data column-wise and all train data column-wise followed by combining the merged test and train data row-wise
+* Data ordered first by subject and then by activity
+* Data was then subsetted to include only mean and standard deviation data
+* Appropriate names were assigned to activity labels 1-6
+* Data frame of column means of subsetted data was created
 
 ##Data Dictionary
 * Subject
