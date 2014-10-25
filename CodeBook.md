@@ -13,6 +13,8 @@
 
 FFT denotes Fast Fourier Transform
 
+All numeric values have been normalized to be within [-1,1]
+
 * Subject
   - Indicates subjects (1-30)
 
