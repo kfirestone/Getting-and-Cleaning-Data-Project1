@@ -7,6 +7,8 @@ For script to read in data frames the current working directory must be set to t
 
 To load in "Column Means Data.txt" file created in the script, read in using the read.table function with header = TRUE.
 
+All numeric values in the dataset have been normalized to by within [-1,1].
+
 ##This dataset includes the following:
 * README.md
 * CodeBook.md
