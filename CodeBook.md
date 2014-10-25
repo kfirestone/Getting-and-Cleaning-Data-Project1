@@ -10,8 +10,8 @@
 *Data frame of column means of subsetted data was created
 
 ##Data Dictionary
-*Subject
-..*Indicates subjects (1-30)
+* Subject
+..* Indicates subjects (1-30)
 
 *Activity
 ..*Indicates activity performed
