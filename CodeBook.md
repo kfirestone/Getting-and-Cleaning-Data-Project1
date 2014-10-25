@@ -1,4 +1,4 @@
-#Data Cleanup Protocol and Data Dictionary
+-> #Data Cleanup Protocol and Data Dictionary <-
 
 ##Data Cleanup Protocol
 *7 data frames read in(features.txt, subject_test.txt, y_test.txt, X_test.txt, subject_train.txt, y_train.txt, X_train.txt)
