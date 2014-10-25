@@ -11,7 +11,7 @@
 
 ##Data Dictionary
 * Subject
-..* Indicates subjects (1-30)
+  - Indicates subjects (1-30)
 
 *Activity
 ..*Indicates activity performed
