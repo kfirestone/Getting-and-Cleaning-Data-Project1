@@ -1,4 +1,4 @@
--> #Data Cleanup Protocol and Data Dictionary <-
+#Data Cleanup Protocol and Data Dictionary
 
 ##Data Cleanup Protocol
 *7 data frames read in(features.txt, subject_test.txt, y_test.txt, X_test.txt, subject_train.txt, y_train.txt, X_train.txt)
@@ -13,41 +13,44 @@
 * Subject
   - Indicates subjects (1-30)
 
-*Activity
-..*Indicates activity performed
+* Activity
+  - Indicates activity performed
 
-*Mean of tBodyAcc-mean()-X
-..*Column mean of times of body acceleration mean in X direction for subject and activity specified in "Subject" and "Activity" column
+* Mean of tBodyAcc-mean()-X
+  - Column mean of times of body acceleration mean in X direction for subject and activity specified in "Subject" and "Activity" column
 
-*Mean of tBodyAcc-mean()-Y
-..*Column mean of time of body acceleration mean in Y direction for subject and activity specified in "Subject" and "Activity" column
+* Mean of tBodyAcc-mean()-Y
+  - Column mean of time of body acceleration mean in Y direction for subject and activity specified in "Subject" and "Activity" column
 
-*Mean of tBodyAcc-mean()-Z
-..*Column mean of time of body acceleration mean in Z direction for subject and activity specified in "Subject" and "Activity" column
+* Mean of tBodyAcc-mean()-Z
+  - Column mean of time of body acceleration mean in Z direction for subject and activity specified in "Subject" and "Activity" column
 
-*Mean of tBodyAcc-std()-X
-..*Column mean of time of body acceleration standard deviation in X direction for subject and activity specified in "Subject" and "Activity" column
+* Mean of tBodyAcc-std()-X
+  - Column mean of time of body acceleration standard deviation in X direction for subject and activity specified in "Subject" and "Activity" column
 
-*Mean of tBodyAcc-std()-Y
-..*Column mean of time of body acceleration standard deviation in Y direction for subject and activity specified in "Subject" and "Activity" column
+* Mean of tBodyAcc-std()-Y
+  - Column mean of time of body acceleration standard deviation in Y direction for subject and activity specified in "Subject" and "Activity" column
 
-*Mean of tBodyAcc-std()-Z
-..*Column mean of time of body acceleration standard deviation in Z direction for subject and activity specified in "Subject" and "Activity" column
+* Mean of tBodyAcc-std()-Z
+  - Column mean of time of body acceleration standard deviation in Z direction for subject and activity specified in "Subject" and "Activity" column
 
-*Mean of tGravityAcc-mean()-X
-..*Column mean of time of gravity acceleration mean in X direction for subject and activity specified in "Subject" and "Activity" column
+* Mean of tGravityAcc-mean()-X
+  - Column mean of time of gravity acceleration mean in X direction for subject and activity specified in "Subject" and "Activity" column
 
-*Mean of tGravityAcc-mean()-Y
-..*Column mean of time of gravity acceleration mean in Y direction for subject and activity specified in "Subject" and "Activity" column
+* Mean of tGravityAcc-mean()-Y
+  - Column mean of time of gravity acceleration mean in Y direction for subject and activity specified in "Subject" and "Activity" column
 
-*Mean of tGravityAcc-mean()-Z
-..*Column mean of time of gravity acceleration mean in Z direction for subject and activity specified in "Subject" and "Activity" column
+* Mean of tGravityAcc-mean()-Z
+  - Column mean of time of gravity acceleration mean in Z direction for subject and activity specified in "Subject" and "Activity" column
 
-*Mean of tGravityAcc-std()-X
-..*Column mean of time of gravity acceleration standard deviation in X direction for subject and activity specified in "Subject" and "Activity" column
+* Mean of tGravityAcc-std()-X
+  - Column mean of time of gravity acceleration standard deviation in X direction for subject and activity specified in "Subject" and "Activity" column
 
-*Mean of tGravityAcc-std()-Y
-..*Column mean of time of gravity acceleration standard deviation in Y direction for subject and activity specified in "Subject" and "Activity" column
+* Mean of tGravityAcc-std()-Y
+  - Column mean of time of gravity acceleration standard deviation in Y direction for subject and activity specified in "Subject" and "Activity" column
 
-*Mean of tGravityAcc-std()-Z
-..*Column mean of time of gravity acceleration standard deviation in Z direction for subject and activity specified in "Subject" and "Activity" column
+* Mean of tGravityAcc-std()-Z
+  - Column mean of time of gravity acceleration standard deviation in Z direction for subject and activity specified in "Subject" and "Activity" column
+  
+* Mean of tBodyAccJerk-mean()-X
+  - Column mean of time of jerk body acceleration mean in X direction for subject and activity specified in "Subject" and "Activity" column
